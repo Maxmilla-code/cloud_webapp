@@ -43,7 +43,7 @@ To get this project up and running on your local machine, follow these steps:
     ```
 2. Navigate to the project directory:
     ```bash
-    cd nextwork-web-project
+    cd cloud_project-one
     ```
 3. Install dependencies:
     ```bash
