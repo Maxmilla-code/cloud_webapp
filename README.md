@@ -52,6 +52,13 @@ To get this project up and running on your local machine, follow these steps:
 
 <br>
 
+Here is the project documentation 
+Set up a web app using AWS annd vs code : https://github.com/Maxmilla-code/ALL_PROJECTS_DOCUMENTATION/blob/main/setting%20up%20a%20cloud%20web%20app%20documentation.pdf
+
+
+
+Connect a github Repo with AWS : https://github.com/Maxmilla-code/ALL_PROJECTS_DOCUMENTATION/blob/main/Connect%20Github%20Repo%20With%20AWS.pdf
+
 ## Contact
 If you have any questions or comments about the NextWork Web Project, please contact:
 Maxmilla njahira- maxmillamuthoni1@gmail.com
